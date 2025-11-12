@@ -19,82 +19,234 @@
 ## 🌐 Introduction  
 
 Welcome to the **Frontend Development Course Repository**, a complete guide to understanding how the **web comes alive**.  
-This course will take you from **HTML basics** to building fully **responsive layouts** with **CSS**, while learning to collaborate using **Git & GitHub**.
+This course will take you from **HTML basics** to building fully **responsive layouts** with **CSS** and **Bootstrap**, while learning to collaborate using **Git & GitHub**.
 
 ### 🔎 What You’ll Learn
 - The structure and behavior of web pages  
-- Styling and positioning elements with CSS  
-- Building real-world layouts using Flexbox  
+- Styling and positioning elements with CSS and Bootstrap  
+- Building real-world layouts using Flexbox, Grid, and Bootstrap components  
 - Writing accessible and semantic code  
-- Collaborating effectively with Git  
+- Collaborating effectively with Git & GitHub  
 
 > “Every tag and pixel you create shapes the user’s experience.”
 
 ---
+## 📅 **Day 1 — Introduction to Web Development**
 
-## 🗺 Course Journey  
+> **Date:** _09/10/2025_  
+> **Topic:** Introduction to Web Development & HTML Basics
 
-### 💡 Lecture 1 — *Introduction to Web Development*
-- 🌍 How the Internet works  
-- 🧱 Frontend, Backend & Full Stack overview  
-- ⚙️ Setting up tools: VS Code, Git, Live Server  
-- 🧭 Understanding Browser Developer Tools  
+### 🧩 What I Learned
 
----
+- 🌐 **3-Tier Architecture:** Frontend, Backend, and Database
+- 🧱 **HTML Basics:** Headings, Paragraphs, Tables, and Images
+- 💻 **Environment Setup:** Installed **VS Code** and used **Live Server** to preview web pages
+- 🔍 **Concepts Covered:** Localhost, Ports, and Rendering pages via IP address
 
-### 🧾 Lecture 2 — *HTML Foundations*
-- 🏗 Structure of an HTML document  
-- 📄 Basic tags: headings, paragraphs, lists, links, images  
-- 🔖 Semantic HTML: `<header>`, `<nav>`, `<section>`, `<footer>`  
-- ♿ Writing clean, accessible markup  
+### 🧪 Task for the Day
 
----
+> Create a **timetable** using the `<table>` tag in HTML.  
+> Run it on **Live Server** to view how it renders in the browser.
 
-### 🧩 Lecture 3 — *Block vs Inline Elements*
-- 📦 Behavior of block & inline elements  
-- 🎯 Working with `<div>`, `<span>`, `<article>` etc.  
-- 🎨 Styling and modifying element display  
+### 🧭 What’s Next
+
+> Next, we’ll explore **HTML Block and Inline Elements**, **Attributes**, **Headings**, **Paragraphs**, **Tables**, **Dropdowns**, **Quotations**, **Lists**, **Blocks**, and **Layout** in detail.
 
 ---
 
-### 🌐 Lecture 4 — *HTML Iframes*
-- Embedding external content  
-- `src`, `title`, and `allowfullscreen` attributes  
-- 🔒 Using `sandbox` for security  
-- 🎞 Embedding YouTube videos or maps  
+## 📅 **Day 2 — Deep Dive into HTML Elements**
+
+> **Date:** _10/10/2025_  
+> **Topic:** Advanced HTML Elements and Forms
+
+### 🧩 What I Learned
+
+- 🔹 **Block and Inline Elements**
+- 🔹 **HTML Attributes**
+- 🔹 **Headings, Paragraphs, Tables, Dropdowns, Lists, and Layouts**
+- 🏃 **Practical Tags:** Learned about the `<marquee>` tag
+- 🧾 **HTML Forms:** Explored different input types for collecting user data
+
+### 🎯 Task for the Day
+
+> Create an **HTML form** using various input types such as text, email, password, radio buttons, and checkboxes.
+
+### 🧭 What’s Next
+
+> Next, we’ll begin **CSS**, learning how to style web pages and improve the look and feel of HTML elements.
 
 ---
 
-### 🎨 Lecture 5 — *CSS Fundamentals*
-- 🎯 Purpose of CSS and styling approaches  
-- Inline, internal, and external styles  
-- 🧾 CSS selectors, colors, fonts, and backgrounds  
-- ✨ Typography and layout basics  
+## 📅 **Day 3 — Introduction to CSS**
+
+> **Date:** _13/10/2025_  
+> **Topic:** Introduction to CSS & Styling Basics
+
+### 🧩 What I Learned
+
+- 🎨 **CSS Basics:** Syntax, Structure, and Application Methods (Inline, Internal, External)
+- 🧭 **Selectors & Colors:** Learned how to style elements using different types of selectors and color properties
+- 📦 **Box Model:** Understood **margin**, **padding**, **border**, and **content** relationships
+- 🧱 **Display & Layout:** Explored `inline`, `block`, and `inline-block` elements
+- ⚙️ **Positioning:** Learned about **relative**, **absolute**, and **fixed** positioning concepts
+
+### 🧪 Task for the Day
+
+> Design a simple **webpage** using **internal** and **external CSS**, applying background colors, margins, padding, and element positioning.
+
+### 🧭 What’s Next
+
+> Next, we’ll learn about **Flexbox** and **Grid** for advanced layouts and responsive designs.
 
 ---
 
-### 🧭 Lecture 6 — *CSS Flexbox*
-- Responsive design using Flexbox  
-- Container properties: `display: flex`, `justify-content`, `align-items`  
-- Item properties: `flex-grow`, `order`, `flex-shrink`  
-- 🌈 Creating navigation bars, grids, and layouts  
+## 📅 **Day 4 — Flexbox, Grid & Advanced CSS**
+
+> **Date:** _30/10/2025_  
+> **Topic:** CSS Flexbox, Grid & Visual Enhancements
+
+### 🧩 What I Learned
+
+- 🧱 **Flexbox & Grid:** Revised layout systems for efficient page structure
+- 📦 **Box Model (Advanced):** Practiced with borders, padding, height, and width adjustments
+- 🌈 **Visual Styling:** Applied **gradients**, **shadows**, and **transformations** for better UI aesthetics
+- 🎯 **Selectors:** Explored **combinators** and **pseudo-classes** for targeted styling
+
+### 🧪 Task for the Day
+
+> Design a **simple Calculator Layout** using **CSS Grid**, implementing gradients and box shadows to enhance the UI.
+
+### 🧭 What’s Next
+
+> Next, we’ll explore **Responsive Design** techniques and start learning about **CSS Media Queries** and **Transitions/Animations**.
 
 ---
 
-### 📦 Lecture 7 — *CSS Box Model*
-- Components: content, padding, border, and margin  
-- Understanding `box-sizing`  
-- Debugging using Chrome DevTools  
-- Maintaining consistent layouts  
+## 📅 **Day 5 — CSS Pseudo-classes, Animations & Transitions**
+
+> **Date:** _31/10/2025_  
+> **Topic:** CSS Pseudo-classes, Tooltips, Animations, Transitions, Transform Properties & Box Sizing
+
+### 🧩 What I Learned
+
+- 🎨 **Pseudo-classes:** Styled elements dynamically on hover, focus, and active states
+- 💬 **Tooltips:** Created informative hover-based tooltips using `position` and `visibility`
+- ⚙️ **Animations & Transitions:** Learned how to animate movement and visual effects
+- 🔄 **Transform Properties:** Practiced with `translate()`, `rotate()`, and `scale()`
+- 🧩 **Box Sizing & UI Styling:** Controlled layout consistency using `box-sizing: border-box`
+- 🧱 **Selectors & Buttons:** Enhanced interaction and aesthetics through advanced CSS selectors
+
+### 🧪 Task for the Day
+
+> Design an **animation** that moves an element **diagonally** using **transition** and **transform properties** to better understand CSS animation effects.
+
+### 🧭 What’s Next
+
+> Next, we’ll start with **Responsive CSS**, covering **Filters**, **Responsive Web Design Principles**, and **CSS Media Queries** to make web pages adaptable to different screen sizes.
 
 ---
 
+## 📅 **Day 6 — Responsive CSS & Media Queries**
+
+> **Date:** _03/11/2025_  
+> **Topic:** Responsive CSS — Filters, Responsive Web Design Principles & CSS Media Queries
+
+### 🧩 What I Learned
+
+- 🌐 **Responsive Design Principles:** Learned how to make layouts adapt across various screen sizes
+- 🎨 **CSS Filters:** Applied visual effects like blur, brightness, and contrast to enhance images
+- 📱 **Media Queries:** Used breakpoints to adjust content and layout for mobile, tablet, and desktop views
+- 🧩 **Flexible Units:** Practiced using `%, vh, vw, em, rem` for scalable design
+- 💡 **Practical Understanding:** Tested responsiveness by resizing browser windows and simulating devices
+
+### 🧪 Task for the Day
+
+> Design a **responsive card UI** with a **title, image, and text**, including a **hover transition effect** to enhance interactivity and understand responsiveness better.
+
+### 🧭 What’s Next
+
+> Next, we’ll begin with **Bootstrap**, learning how to use **prebuilt components** and **responsive utilities** to design **modern, mobile-first layouts** efficiently.
+
+---
+
+## 📅 **Day 7 — Introduction to Bootstrap**
+
+> **Date:** _05/11/2025_  
+> **Topic:** Introduction to Bootstrap, Bootstrap Basics, Grids & Bootstrap CSS
+
+### 🧩 What I Learned
+
+- ⚡ **Introduction to Bootstrap:** Understood how Bootstrap simplifies web design with prebuilt components
+- 🧱 **Bootstrap Basics:** Explored containers, rows, and columns for structured layouts
+- 🎨 **Bootstrap Grids:** Learned about the 12-column grid system and responsive breakpoints
+- 🧩 **Bootstrap CSS Utilities:** Used spacing, text, and background utility classes for quick styling
+- 📱 **Mobile-first Design:** Practiced creating responsive layouts efficiently with minimal custom CSS
+
+### 🧪 Task for the Day
+
+> Design a **responsive portfolio webpage** using **Bootstrap**, applying grid layouts, responsive utilities, and basic Bootstrap components.
+
+### 🧭 What’s Next
+
+> Next, we’ll **revise CSS** and explore more **Bootstrap components** such as **Carousel**, **Progress Bar**, and more to enhance web design skills.
+
+---
+
+## 📅 **Day 8 — Bootstrap Components & Responsive Design Revision**
+
+> **Date:** _06/11/2025_  
+> **Topic:** CSS Revision & Advanced Bootstrap Components (Carousel, Progress Bar, etc.)
+
+### 🧩 What I Learned
+
+- 🎨 **CSS Revision:** Revised essential styling concepts such as selectors, positioning, and box model
+- ⚙️ **Bootstrap Components:** Explored **Carousel**, **Progress Bar**, and other UI components for better interactivity
+- 🧱 **Responsive Layouts:** Strengthened understanding of responsive grids and layout alignment using Bootstrap
+- 🌐 **Utility Classes:** Practiced using margin, padding, and display utilities for quick and clean styling
+- 💡 **Integration:** Combined CSS and Bootstrap effectively to build modern, mobile-friendly designs
+
+### 🧪 Task for the Day
+
+> Design a **responsive portfolio webpage** using **Bootstrap**, incorporating **Carousel** and **Progress Bar** components to demonstrate your understanding of responsive layouts.
+
+### 🧭 What’s Next
+
+> Next, we’ll begin with **Introduction to JavaScript**, learning how to make web pages **interactive** and **dynamic** using scripts.
+
+---
+
+## 📅 **Day 9 — Introduction to JavaScript**
+
+> **Date:** _10/11/2025_  
+> **Topic:** Introduction to JavaScript, Types, Operators, Logical Operators, Math, and Control Structures
+
+### 🧩 What I Learned
+
+- ⚡ **Introduction to JavaScript:** Understood how JavaScript adds interactivity and dynamic behavior to web pages
+- 🔢 **JavaScript Data Types:** Learned about primitive and non-primitive types — `String`, `Number`, `Boolean`, `Object`, `Undefined`, and `Null`
+- ➕ **Operators:** Explored arithmetic, assignment, comparison, and logical operators
+- 🧮 **Math in JavaScript:** Practiced using the `Math` object for calculations (`Math.round()`, `Math.floor()`, `Math.random()`, etc.)
+- 🔁 **Control Structures:** Studied how to control program flow using `if`, `else if`, `else`, `switch`, and loops (`for`, `while`, `do-while`)
+- 🧠 **Logical Operations:** Applied `&&`, `||`, and `!` to build conditions and handle logic efficiently
+
+### 🧪 Task for the Day
+
+> Write a JavaScript program that takes two numbers as input and performs:
+>
+> - Addition, Subtraction, Multiplication, and Division
+> - Checks if the first number is greater than the second using logical and comparison operators
+> - Displays results dynamically using `alert()` or `console.log()`
+
+### 🧭 What’s Next
+
+> In the next session, we’ll continue with **Operators**, covering **Scope**, **Events**, **Strings**, **Math**, **Arrays**, **Boolean**, **Comparisons**, and **Conditions** to deepen our understanding of data handling and user interactions in JavaScript.
+---
 ## 🎯 Learning Outcomes  
 
 After completing this course, you will be able to:  
 ✅ Design responsive and semantic web pages  
-✅ Apply CSS3 to create aesthetic layouts  
-✅ Use Flexbox for adaptive modern designs  
+✅ Apply CSS3 and Bootstrap to create modern, aesthetic layouts  
+✅ Use Flexbox, Grid, and Bootstrap components for adaptive and responsive designs  
 ✅ Master the Box Model and layout control  
 ✅ Work collaboratively using Git and GitHub  
 
@@ -106,23 +258,27 @@ After completing this course, you will be able to:
 |--------------|-------------|
 | 🧱 **HTML5** | Structure and content of web pages |
 | 🎨 **CSS3** | Styling and visual design |
-| 💻 **VS Code** | Code editor and environment |
+| 💠 **Bootstrap** | Responsive front-end framework for fast and flexible design |
+| 💻 **VS Code** | Code editor and development environment |
 | 🔗 **Git & GitHub** | Version control and collaboration |
 | 🚀 **Live Server** | Real-time browser preview |
 
----
 
-## 🗂 Repository Structure  
+## 📂 Tasks Covered During Class
 
-Frontend_Development_Course/  
-├── 📘 Lectures/ → Topic-wise HTML & CSS examples  
-├── 🧩 Assignments/ → Practice exercises and challenges  
-├── 💡 Practice/ → Mini projects & creative demos  
-└── 📄 README.md → Course documentation  
+| 🧩 **Project Name** | 📜 **Description** |
+|----------------------|--------------------|
+| 🌐 **HTML Page** | Basic structured webpage demonstrating semantic tags |
+| 🍽️ **Zomato Clone** | Replica of Zomato’s homepage using HTML & CSS |
+| 🕒 **Timetable** | Weekly timetable layout using tables and styling |
+| 🧾 **Card Page** | Stylish card layout built using HTML & Flexbox |
+| 🧮 **Calculator** | Interactive calculator using HTML, CSS, and JavaScript |
+| 💫 **Animation Page** | CSS animations and keyframes for smooth effects |
+| 🖱️ **Hover Effects** | Interactive hover transitions and animations |
+| 💼 **Portfolio** | Personal portfolio website built using HTML, CSS, and Bootstrap |
+| 🧠 **SmartPortal** | A modern student dashboard interface built using HTML and CSS |
 
 
-
----
 
 ## 💡 Developer Tips  
 
@@ -142,12 +298,10 @@ This course is crafted with guidance from:
 
 > *Their mentorship ensures you don’t just learn to code — you learn to create experiences.*
 
----
+<hr>
 
-<div align="center">
+<p align="center">
+  <b>💻 Designed with ❤️ by Aditya</b>
+</p>
 
-### 💻 Developed with ❤️ by [Aditya Kumar Gupta](https://github.com/adigupta10)
-
-> *“Frontend isn’t only about visuals — it’s about shaping digital experiences that feel alive.”*
-
-</div>
+<p align="center"><i>“Frontend isn’t just code — it’s creativity translated into experience.”</i></p>
