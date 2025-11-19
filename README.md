@@ -48,10 +48,6 @@ This course will take you from **HTML basics** to building fully **responsive la
 > Create a **timetable** using the `<table>` tag in HTML.  
 > Run it on **Live Server** to view how it renders in the browser.
 
-### 🧭 What’s Next
-
-> Next, we’ll explore **HTML Block and Inline Elements**, **Attributes**, **Headings**, **Paragraphs**, **Tables**, **Dropdowns**, **Quotations**, **Lists**, **Blocks**, and **Layout** in detail.
-
 ---
 
 ## 📅 **Day 2 — Deep Dive into HTML Elements**
@@ -71,11 +67,6 @@ This course will take you from **HTML basics** to building fully **responsive la
 
 > Create an **HTML form** using various input types such as text, email, password, radio buttons, and checkboxes.
 
-### 🧭 What’s Next
-
-> Next, we’ll begin **CSS**, learning how to style web pages and improve the look and feel of HTML elements.
-
----
 
 ## 📅 **Day 3 — Introduction to CSS**
 
@@ -94,10 +85,6 @@ This course will take you from **HTML basics** to building fully **responsive la
 
 > Design a simple **webpage** using **internal** and **external CSS**, applying background colors, margins, padding, and element positioning.
 
-### 🧭 What’s Next
-
-> Next, we’ll learn about **Flexbox** and **Grid** for advanced layouts and responsive designs.
-
 ---
 
 ## 📅 **Day 4 — Flexbox, Grid & Advanced CSS**
@@ -115,11 +102,6 @@ This course will take you from **HTML basics** to building fully **responsive la
 ### 🧪 Task for the Day
 
 > Design a **simple Calculator Layout** using **CSS Grid**, implementing gradients and box shadows to enhance the UI.
-
-### 🧭 What’s Next
-
-> Next, we’ll explore **Responsive Design** techniques and start learning about **CSS Media Queries** and **Transitions/Animations**.
-
 ---
 
 ## 📅 **Day 5 — CSS Pseudo-classes, Animations & Transitions**
@@ -140,10 +122,6 @@ This course will take you from **HTML basics** to building fully **responsive la
 
 > Design an **animation** that moves an element **diagonally** using **transition** and **transform properties** to better understand CSS animation effects.
 
-### 🧭 What’s Next
-
-> Next, we’ll start with **Responsive CSS**, covering **Filters**, **Responsive Web Design Principles**, and **CSS Media Queries** to make web pages adaptable to different screen sizes.
-
 ---
 
 ## 📅 **Day 6 — Responsive CSS & Media Queries**
@@ -162,11 +140,6 @@ This course will take you from **HTML basics** to building fully **responsive la
 ### 🧪 Task for the Day
 
 > Design a **responsive card UI** with a **title, image, and text**, including a **hover transition effect** to enhance interactivity and understand responsiveness better.
-
-### 🧭 What’s Next
-
-> Next, we’ll begin with **Bootstrap**, learning how to use **prebuilt components** and **responsive utilities** to design **modern, mobile-first layouts** efficiently.
-
 ---
 
 ## 📅 **Day 7 — Introduction to Bootstrap**
@@ -186,10 +159,6 @@ This course will take you from **HTML basics** to building fully **responsive la
 
 > Design a **responsive portfolio webpage** using **Bootstrap**, applying grid layouts, responsive utilities, and basic Bootstrap components.
 
-### 🧭 What’s Next
-
-> Next, we’ll **revise CSS** and explore more **Bootstrap components** such as **Carousel**, **Progress Bar**, and more to enhance web design skills.
-
 ---
 
 ## 📅 **Day 8 — Bootstrap Components & Responsive Design Revision**
@@ -208,11 +177,6 @@ This course will take you from **HTML basics** to building fully **responsive la
 ### 🧪 Task for the Day
 
 > Design a **responsive portfolio webpage** using **Bootstrap**, incorporating **Carousel** and **Progress Bar** components to demonstrate your understanding of responsive layouts.
-
-### 🧭 What’s Next
-
-> Next, we’ll begin with **Introduction to JavaScript**, learning how to make web pages **interactive** and **dynamic** using scripts.
-
 ---
 
 ## 📅 **Day 9 — Introduction to JavaScript**
@@ -236,10 +200,86 @@ This course will take you from **HTML basics** to building fully **responsive la
 > - Addition, Subtraction, Multiplication, and Division
 > - Checks if the first number is greater than the second using logical and comparison operators
 > - Displays results dynamically using `alert()` or `console.log()`
+---
 
-### 🧭 What’s Next
+## 📅 **Day 10 — JavaScript Scope, Events, Strings & Arrays**
 
-> In the next session, we’ll continue with **Operators**, covering **Scope**, **Events**, **Strings**, **Math**, **Arrays**, **Boolean**, **Comparisons**, and **Conditions** to deepen our understanding of data handling and user interactions in JavaScript.
+> **Date:** _12/11/2025_  
+> **Topic:** JavaScript Scope, Events, Strings & Arrays
+
+### 🧩 What I Learned
+
+- 🧠 **Scope:** Understood how variable visibility works in JavaScript — including **global**, **local**, and **block** scope using `var`, `let`, and `const`.
+- ⚡ **Events:** Learned how to handle **user interactions** using event listeners such as `onclick`, `onchange`, and `onmouseover`.
+- 🔤 **Strings:** Explored string manipulation methods like `concat()`, `toUpperCase()`, `toLowerCase()`, `slice()`, and `substring()`.
+- 🧮 **Math Operations:** Practiced using **mathematical functions** and expressions within JavaScript for dynamic calculations.
+- 🧱 **Arrays:** Understood how to create and manipulate arrays using methods.
+
+### 🧪 Task for the Day
+
+> Practice programs that demonstrate:
+>
+> - Different **types of variable scopes** in JavaScript
+> - Handling **button click events** to trigger changes dynamically
+> - Performing **string manipulations** (uppercase, lowercase, slicing)
+> - Creating and updating **arrays** with various operations
+
+---
+
+## 📅 **Day 11 — JavaScript ES Features, DOM & Practical Applications**
+
+> **Date:** _13/11/2025_  
+> **Topic:** JavaScript ES Features — DOM, Hoisting, Functions & Arrow Functions
+
+### 🧩 What I Learned
+
+- 🌐 **DOM (Document Object Model):**  
+  Understood how to access and manipulate HTML elements dynamically using `getElementById`, `querySelector`, and property updates.
+
+- 🚀 **Hoisting:**  
+  Learned how JavaScript moves **variable and function declarations** to the top of their scope, affecting how code executes.
+
+- ⚙️ **Functions & Arrow Functions:**  
+  - Arrow function syntax
+  - Differences and benefits of using arrow functions
+  - Cleaner and modern approach to writing JS functions
+
+### 🧪 Task for the Day
+
+> Recreate both projects covered in class:
+> - **Counter App** using DOM methods and event listeners
+> - **Image Resize App** using width/height manipulation
+> Add comments in your JS file explaining each step clearly.
+
+---
+
+## 📅 **Day 12 — JavaScript Classes, Objects & Responsive Sidebar**
+
+> **Date:** _17/11/2025_  
+> **Topic:** JavaScript ES Classes, Objects, Hoisting Recap & Responsive Hamburger Menu
+
+### 🧩 What I Learned
+
+- 🏗️ **JavaScript ES Classes:**  
+  Understood how to define classes, create objects, and use constructors & methods.
+
+- 📦 **Objects in JavaScript:**  
+  Explored object creation, accessing properties, modifying values, and using methods inside objects.
+
+- 🔁 **Quick Recap — Hoisting & Functions:**  
+  Revised how hoisting works with variables and functions to avoid common errors.
+
+- 🍔 **Hamburger Menu using Media Queries:**  
+  Practiced building a **responsive hamburger icon** and a **responsive sidebar menu** that appears on smaller screens.
+
+### 🧪 Task for the Day
+
+> Build a **Hamburger Menu + Sidebar Navigation** using:
+> - Media Queries
+> - DOM Manipulation
+> - Responsive Layout Techniques
+> Ensure it works smoothly on mobile screens.
+
 ---
 ## 🎯 Learning Outcomes  
 
