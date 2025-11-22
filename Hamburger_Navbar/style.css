@@ -1,0 +1,98 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
+
+/* NAVBAR */
+.navbar {
+    background-color: black;
+    padding: 15px 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.logo {
+    color: cyan;
+    font-size: 24px;
+    font-weight: bold;
+}
+
+/* MENU LINKS */
+.menu a {
+    color: white;
+    text-decoration: none;
+    margin-left: 25px;
+    font-size: 18px;
+    transition: 0.3s;
+}
+
+.menu a:hover {
+    color: cyan;
+}
+
+/* HAMBURGER */
+.hamburger {
+    display: none;
+    flex-direction: column;
+    gap: 6px;
+    cursor: pointer;
+}
+
+.hamburger span {
+    width: 30px;
+    height: 3px;
+    background: cyan;
+}
+
+/* MOBILE SIDEBAR */
+.menu {
+    transition: right 0.3s ease-in-out;
+}
+
+/* CLOSE BUTTON */
+.close-btn {
+    font-size: 26px;
+    color: cyan;
+    cursor: pointer;
+    display: none;
+}
+
+/* MOBILE VIEW */
+@media (max-width: 600px) {
+
+    .menu {
+        position: fixed;
+        top: 0;
+        right: -250px; 
+        height: 100%;
+        width: 200px;
+        background: black;
+        padding-top: 30px;
+        display: flex;
+        flex-direction: column;
+        align-items: start;
+        gap: 30px;
+        padding-left: 20px;
+    }
+
+    .menu a {
+        font-size: 20px;
+        margin: 0;
+    }
+
+    .hamburger {
+        display: flex;
+    }
+
+    /* SHOW CLOSE BUTTON IN MOBILE */
+    .close-btn {
+        display: block;
+    }
+
+    .menu.active {
+        right: 0;
+    }
+}
