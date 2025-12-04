@@ -1,7 +1,7 @@
 // Q1. Personalized Login Greeting
 
 // Declare variables
-let Name = "Aditya";
+let Name = "Ayushman";
 let currentHour = new Date().getHours(); // Get current hour (0–23)
 let greeting = "";
 
