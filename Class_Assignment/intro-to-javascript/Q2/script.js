@@ -1,7 +1,7 @@
 // Q2. Multi-Type Data Summary
 
-let userName = "Ayushman"; // string
-let age = 21; // number
+let userName = "Aditya"; // string
+let age = 22; // number
 let isStudent = true; // boolean
 let subjects = ["Java", "Python", "DSA"]; // array
 let profile = { university: "GLA", year: 3 }; // object
